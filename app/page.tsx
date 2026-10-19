@@ -533,7 +533,7 @@ export default function Home() {
             <div className="flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-[#dfb479]" />
               <span>
-                © {new Date().getFullYear()} INT-VFX STUDIO INC. ALL RIGHTS RESERVED.
+                © 2026 INT-VFX STUDIO INC. ALL RIGHTS RESERVED.
               </span>
             </div>
 
